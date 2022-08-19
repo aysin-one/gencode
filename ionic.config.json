@@ -1,0 +1,7 @@
+{
+  "name": "gencode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
