@@ -12,5 +12,5 @@ Run `ionic serve` to start a live-reload dev server
 
 ### to test the app with Server Side Rendering
 Run `npm run dev:ssr`
-In production, run `npm run build:ssr && npm run server:ssr` 
+In production, run `npm run build:ssr && npm run serve:ssr` 
 
